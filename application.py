@@ -6,9 +6,9 @@ def say_hello(username = "World"):
 
 # some bits of text for the page.
 header_text = '''
-    <html>\n<head> <title>EB Flask Test</title> </head>\n<body>'''
+    <html>\n<head> <title>Flask Test</title> </head>\n<body>'''
 instructions = '''
-    <p><em>Hint</em>This is a demo for CICD </p>\n'''
+    <p><em>Hint</em>这是可持续发布和集成的例子 </p>\n'''
 home_link = '<p><a href="/">Back</a></p>\n'
 footer_text = '</body>\n</html>'
 
